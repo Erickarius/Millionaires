@@ -1,6 +1,6 @@
 # Millionaires
 
-##**This is my first consol project made based on the knowledge gained in the course "Python for Beginners" on the udemy.com platform. The project refers to the popular TV game Millionaires**
+## **This is my first consol project made based on the knowledge gained in the course "Python for Beginners" on the udemy.com platform. The project refers to the popular TV game Millionaires**
 
 Short instruction:
 1. Download python from: https://www.python.org/
