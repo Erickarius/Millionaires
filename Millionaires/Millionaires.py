@@ -168,7 +168,7 @@ def PlayerList(userName, pounds):
 
 
 pounds = 0
-userName = input('Enter you are name: ')
+userName = input('Enter Youre name: ')
 os.system('cls')
 
 print('Welcome to Millionaires Game %s!' % userName)
