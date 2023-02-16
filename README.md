@@ -11,7 +11,8 @@ Short instruction:
 
 # Screenshot:
 
-![Millionaires screenshot 1](https://user-images.githubusercontent.com/117024079/219359401-bb9b9a19-564a-482d-8444-b379c078eca5.png)
+![Millionaires screenshot 10](https://user-images.githubusercontent.com/117024079/219373182-4a4c9c41-6320-40e1-8e8b-07f4f7230d2f.png)
+
 
 ![Millionaires screenshot 3](https://user-images.githubusercontent.com/117024079/219359425-ecd14878-5ec8-40d9-85ce-8f2b9d716a21.png)
 
